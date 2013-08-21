@@ -17,7 +17,7 @@ at [the University of Sydney][uni].
       <li class="country-name">Australia</li>
       <li class="tel">+61...?</li>
       <li><a href="mailto:??@??.com" class="email">
-      eocallaghan@alterapraxis.com</a></li>
+      ..@??.com</a></li>
       <li><a class="url" href="https://www.??.com">
       https://www.??.com</a></li>
     </ul>
