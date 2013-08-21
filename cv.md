@@ -16,10 +16,10 @@ at [the University of Sydney][uni].
       <li class="locality">Sydney</li>
       <li class="country-name">Australia</li>
       <li class="tel">+61...?</li>
-      <li><a href="mailto:??@??.com" class="email">
-      ..@??.com</a></li>
-      <li><a class="url" href="https://www.??.com">
-      https://www.??.com</a></li>
+      <li><a href="mailto:seraphinekitten@gmail.com" class="email">
+      saralelliott@gmail.com</a></li>
+      <li><a class="url" href="https://saralelliott.github.io/blog">
+      https://saralelliott.github.io/blog</a></li>
     </ul>
 </aside>
 
@@ -88,8 +88,8 @@ Previous Employment
 ???? TODO:
 
 
-University of NSW
------------------
+University of Sydney
+--------------------
 
 Currently studying for a [Bachelor of Science (BSc)][BSc]
 at [the University of Sydney](http://www.sydney.edu.au).
